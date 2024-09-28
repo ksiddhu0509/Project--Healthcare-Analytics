@@ -1,0 +1,12 @@
+Field Name,Description,Data Type,Example Value
+date,Date of the patient visit,Date,15/09/2024
+patient_id,Unique identifier for each patient,String,P123456
+patient_gender,Gender of the patient,String,Female
+patient_age,Age of the patient,Integer,34
+patient_sat_score,SAT score of the patient,Integer,1200
+patient_first_initial,First initial of the patient's first name,String,J
+patient_last_name,Last name of the patient,String,Doe
+patient_race,Race or ethnicity of the patient,String,Asian
+patient_admin_flag,Flag indicating if the patient is admin,Boolean,TRUE
+patient_waittime,Time (in minutes) the patient waited,Integer,30
+department_referral,Department that referred the patient,String,Cardiology
